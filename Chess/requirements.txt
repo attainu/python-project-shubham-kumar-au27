@@ -1,0 +1,1 @@
+#To play this game pygame==2.1.2 is required
