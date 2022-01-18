@@ -411,7 +411,7 @@ class Move():
 
 
         self.moveID = self.startRow * 1000 + self.startCol * 100 + self.endRow * 10 + self.endCol
-        print(self.moveID)
+       
 
     #over riding the equals method
     def __eq__(self, other):
